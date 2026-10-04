@@ -11,6 +11,11 @@
 			"description": "@types/node tracks the supported Node range, so bumps are a deliberate call.",
 			"matchPackageNames": ["@types/node"],
 			"automerge": false
+		},
+		{
+			"description": "ts-jest 29 declares peer typescript <7. Lift when ts-jest supports TypeScript 7.",
+			"matchPackageNames": ["typescript"],
+			"allowedVersions": "<7"
 		}
 	]
 }
