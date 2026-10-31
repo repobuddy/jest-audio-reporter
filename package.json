@@ -28,7 +28,8 @@
 	"files": [
 		"esm",
 		"ts",
-		"!ts/**/*.spec.ts"
+		"!ts/**/*.spec.ts",
+		"CHANGELOG.md"
 	],
 	"scripts": {
 		"build": "tsc -p tsconfig.base.json",
