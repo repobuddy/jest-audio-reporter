@@ -1,5 +1,11 @@
 # jest-audio-reporter
 
+## 3.0.1
+
+### Patch Changes
+
+- 3d55a2c: Include `CHANGELOG.md` in the published package.
+
 ## 3.0.0
 
 ### Major Changes
